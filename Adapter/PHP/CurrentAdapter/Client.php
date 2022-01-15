@@ -28,4 +28,4 @@ class Client
     }
 }
 
-$worker = new Client();
+$worker = new clientCode();
