@@ -1,0 +1,1 @@
+2022-02-09 16:47:40: 'users:init' with data '"F:\\Workfile\\DesignPattern\\Observer\\PHP\\LoggerObserver\/users.csv"'
