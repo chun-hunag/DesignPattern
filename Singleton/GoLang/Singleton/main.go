@@ -18,3 +18,4 @@ func main() {
 	tp = GetTotalPopulationEx(&DummyDatabase{}, names)
 	ok = tp == 4
 	fmt.Println(ok)
+}
